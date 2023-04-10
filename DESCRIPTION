@@ -1,6 +1,6 @@
 Package: TarSeqQC
 Type: Package
-Version: 1.29.0
+Version: 1.29.1
 Date: 2021-11-21
 Title: TARgeted SEQuencing Experiment Quality Control
 Author: Gabriela A. Merino, Cristobal Fresno, Yanina Murua, Andrea S. Llera
@@ -84,8 +84,10 @@ Collate:
     'TargetExperimentList-plotGlobalAttrExpl.R'
     'TargetExperimentList-plotAttrExpl.R'
     'TargetExperimentList-plotPoolPerformance.R'
+    'zzz.R'
 biocViews: Software, Sequencing, TargetedResequencing, QualityControl,
     Visualization, Coverage, Alignment, DataImport
 NeedsCompilation: no
 Packaged: 2016-03-14 05:20:13 UTC; biocbuild
 RoxygenNote: 5.0.1
+PackageStatus: Deprecated
